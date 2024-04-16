@@ -11,7 +11,7 @@ API ini memungkinkan pengembang untuk mengakses data produk tanpa harus menyimpa
 #### 1. Mencari Product berdasarkan barcode
 
 ```
-GET http://alpha-projects.cloud:9090//api/v1/products-barcode?barcode={barcode}&generateBarcode={boolean}
+GET http://alpha-projects.cloud:9090/api/v1/products-barcode?barcode={barcode}&generateBarcode={boolean}
 ```
 
 Contoh Response:
